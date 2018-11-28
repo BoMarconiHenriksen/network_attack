@@ -6,4 +6,6 @@ We will demonstrate how an attack will kick the user off their trusted network w
 
 For this attack to work we need to do some social enginering and it will only work on people that don't have avarage or strong technical knowledge.  
 
+If it's possible we will also try to demonstrate an attack that exploit an WPS vulnerability in the router. This is only if we can make it work and also if we have extra time to prepare it.
+
 We will talk about strategies for wifi hacking and especially look into Airgeddon wireless attack framework. We will also look into how its possible to defend against wifi hacking.
